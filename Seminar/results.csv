@@ -1,0 +1,19 @@
+Path,Type,Size (bytes),Parent Directory
+Seminar\Csv,directory,9311,Seminar
+Seminar\Json,directory,9311,Seminar
+Seminar\Pickle,directory,9311,Seminar
+Seminar\result.txt,file,326,Seminar
+Seminar\sem_01.py,file,1112,Seminar
+Seminar\sem_02.py,file,2151,Seminar
+Seminar\sem_03.py,file,1028,Seminar
+Seminar\sem_04.py,file,1834,Seminar
+Seminar\sem_05.py,file,956,Seminar
+Seminar\sem_06.py,file,1214,Seminar
+Seminar\sem_07.py,file,690,Seminar
+Seminar\Csv\users.csv,file,201,Seminar\Csv
+Seminar\Csv\users_csv.csv,file,338,Seminar\Csv
+Seminar\Json\result.json,file,849,Seminar\Json
+Seminar\Json\users.json,file,635,Seminar\Json
+Seminar\Json\users_json.jsonl,file,1184,Seminar\Json
+Seminar\Pickle\result.pickle,file,343,Seminar\Pickle
+Seminar\Pickle\users.pickle,file,258,Seminar\Pickle
