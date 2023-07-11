@@ -1,0 +1,146 @@
+[
+    {
+        "path": "Seminar_dz\\File_utils",
+        "type": "directory",
+        "size": 6064,
+        "parent_directory": "Seminar_dz"
+    },
+    {
+        "path": "Seminar_dz\\add_users.csv",
+        "type": "file",
+        "size": 127,
+        "parent_directory": "Seminar_dz"
+    },
+    {
+        "path": "Seminar_dz\\add_users.json",
+        "type": "file",
+        "size": 313,
+        "parent_directory": "Seminar_dz"
+    },
+    {
+        "path": "Seminar_dz\\add_users.pickle",
+        "type": "file",
+        "size": 140,
+        "parent_directory": "Seminar_dz"
+    },
+    {
+        "path": "Seminar_dz\\func_result.csv",
+        "type": "file",
+        "size": 338,
+        "parent_directory": "Seminar_dz"
+    },
+    {
+        "path": "Seminar_dz\\func_result.json",
+        "type": "file",
+        "size": 849,
+        "parent_directory": "Seminar_dz"
+    },
+    {
+        "path": "Seminar_dz\\func_result.pickle",
+        "type": "file",
+        "size": 343,
+        "parent_directory": "Seminar_dz"
+    },
+    {
+        "path": "Seminar_dz\\sem_dz_01.py",
+        "type": "file",
+        "size": 2589,
+        "parent_directory": "Seminar_dz"
+    },
+    {
+        "path": "Seminar_dz\\sem_dz_02.py",
+        "type": "file",
+        "size": 1365,
+        "parent_directory": "Seminar_dz"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\__pycache__",
+        "type": "directory",
+        "size": 5530,
+        "parent_directory": "Seminar_dz\\File_utils"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\add_users.py",
+        "type": "file",
+        "size": 1278,
+        "parent_directory": "Seminar_dz\\File_utils"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\json_to_csv.py",
+        "type": "file",
+        "size": 750,
+        "parent_directory": "Seminar_dz\\File_utils"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\json_to_pickle.py",
+        "type": "file",
+        "size": 621,
+        "parent_directory": "Seminar_dz\\File_utils"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\pickle_to_csv.py",
+        "type": "file",
+        "size": 609,
+        "parent_directory": "Seminar_dz\\File_utils"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\traverse_directory.py",
+        "type": "file",
+        "size": 1795,
+        "parent_directory": "Seminar_dz\\File_utils"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\txt_to_json.py",
+        "type": "file",
+        "size": 477,
+        "parent_directory": "Seminar_dz\\File_utils"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\__init__.py",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "Seminar_dz\\File_utils"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\__pycache__\\add_users.cpython-311.pyc",
+        "type": "file",
+        "size": 2360,
+        "parent_directory": "Seminar_dz\\File_utils\\__pycache__"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\__pycache__\\json_to_csv.cpython-311.pyc",
+        "type": "file",
+        "size": 1712,
+        "parent_directory": "Seminar_dz\\File_utils\\__pycache__"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\__pycache__\\json_to_pickle.cpython-311.pyc",
+        "type": "file",
+        "size": 1655,
+        "parent_directory": "Seminar_dz\\File_utils\\__pycache__"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\__pycache__\\pickle_to_csv.cpython-311.pyc",
+        "type": "file",
+        "size": 1580,
+        "parent_directory": "Seminar_dz\\File_utils\\__pycache__"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\__pycache__\\traverse_directory.cpython-311.pyc",
+        "type": "file",
+        "size": 3568,
+        "parent_directory": "Seminar_dz\\File_utils\\__pycache__"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\__pycache__\\txt_to_json.cpython-311.pyc",
+        "type": "file",
+        "size": 1478,
+        "parent_directory": "Seminar_dz\\File_utils\\__pycache__"
+    },
+    {
+        "path": "Seminar_dz\\File_utils\\__pycache__\\__init__.cpython-311.pyc",
+        "type": "file",
+        "size": 214,
+        "parent_directory": "Seminar_dz\\File_utils\\__pycache__"
+    }
+]

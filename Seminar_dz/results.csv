@@ -1,0 +1,25 @@
+Path,Type,Size (bytes),Parent Directory
+Seminar_dz\File_utils,directory,6064,Seminar_dz
+Seminar_dz\add_users.csv,file,127,Seminar_dz
+Seminar_dz\add_users.json,file,313,Seminar_dz
+Seminar_dz\add_users.pickle,file,140,Seminar_dz
+Seminar_dz\func_result.csv,file,338,Seminar_dz
+Seminar_dz\func_result.json,file,849,Seminar_dz
+Seminar_dz\func_result.pickle,file,343,Seminar_dz
+Seminar_dz\sem_dz_01.py,file,2589,Seminar_dz
+Seminar_dz\sem_dz_02.py,file,1365,Seminar_dz
+Seminar_dz\File_utils\__pycache__,directory,5530,Seminar_dz\File_utils
+Seminar_dz\File_utils\add_users.py,file,1278,Seminar_dz\File_utils
+Seminar_dz\File_utils\json_to_csv.py,file,750,Seminar_dz\File_utils
+Seminar_dz\File_utils\json_to_pickle.py,file,621,Seminar_dz\File_utils
+Seminar_dz\File_utils\pickle_to_csv.py,file,609,Seminar_dz\File_utils
+Seminar_dz\File_utils\traverse_directory.py,file,1795,Seminar_dz\File_utils
+Seminar_dz\File_utils\txt_to_json.py,file,477,Seminar_dz\File_utils
+Seminar_dz\File_utils\__init__.py,file,0,Seminar_dz\File_utils
+Seminar_dz\File_utils\__pycache__\add_users.cpython-311.pyc,file,2360,Seminar_dz\File_utils\__pycache__
+Seminar_dz\File_utils\__pycache__\json_to_csv.cpython-311.pyc,file,1712,Seminar_dz\File_utils\__pycache__
+Seminar_dz\File_utils\__pycache__\json_to_pickle.cpython-311.pyc,file,1655,Seminar_dz\File_utils\__pycache__
+Seminar_dz\File_utils\__pycache__\pickle_to_csv.cpython-311.pyc,file,1580,Seminar_dz\File_utils\__pycache__
+Seminar_dz\File_utils\__pycache__\traverse_directory.cpython-311.pyc,file,3568,Seminar_dz\File_utils\__pycache__
+Seminar_dz\File_utils\__pycache__\txt_to_json.cpython-311.pyc,file,1478,Seminar_dz\File_utils\__pycache__
+Seminar_dz\File_utils\__pycache__\__init__.cpython-311.pyc,file,214,Seminar_dz\File_utils\__pycache__
